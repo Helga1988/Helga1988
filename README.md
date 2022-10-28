@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/lMsT2f47tDxFMYdJMC/giphy-downsized-large.gif" width="100"/>
+  <img src="https://media.giphy.com/media/lMsT2f47tDxFMYdJMC/giphy-downsized-large.gif" width="350"/>
 </div>
 <div id="header" align="center">
-<img src="https://user-images.githubusercontent.com/116359188/198611477-5283761f-f0c2-444b-a97b-af80a62b9352.gif" width="100"/>
+<img src="https://user-images.githubusercontent.com/116359188/198611477-5283761f-f0c2-444b-a97b-af80a62b9352.gif" width="350"/>
 </div>
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
